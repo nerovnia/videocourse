@@ -1,2 +1,2 @@
 # videocourse
-Vide course
+Video course
